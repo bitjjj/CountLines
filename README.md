@@ -20,3 +20,5 @@ a tool for counting code lines written by C# 2.0
 可以保存统计结果列表
 
 使用简单方便，容易操作，默认情况下只统计.c，.cpp，.Java，.cs类型的文件，如需统计其它类型文件请先进行设置
+
+![snapshot](http://pic.cr173.com/up/2011-5/2011522194616.jpg)

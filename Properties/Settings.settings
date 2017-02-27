@@ -1,0 +1,26 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CountLines.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="kinds" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;.h&lt;/string&gt;
+  &lt;string&gt;.c&lt;/string&gt;
+  &lt;string&gt;.cpp&lt;/string&gt;
+  &lt;string&gt;.cs&lt;/string&gt;
+  &lt;string&gt;.vb&lt;/string&gt;
+  &lt;string&gt;.java&lt;/string&gt;
+  &lt;string&gt;.jsp&lt;/string&gt;
+  &lt;string&gt;.php&lt;/string&gt;
+  &lt;string&gt;.asp&lt;/string&gt;
+  &lt;string&gt;.aspx&lt;/string&gt;
+  &lt;string&gt;.html&lt;/string&gt;
+  &lt;string&gt;.htm&lt;/string&gt;
+  &lt;string&gt;.xml&lt;/string&gt;
+  &lt;string&gt;.sql&lt;/string&gt;
+  &lt;string&gt;.js&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

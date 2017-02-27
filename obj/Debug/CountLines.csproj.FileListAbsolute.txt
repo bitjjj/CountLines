@@ -1,0 +1,39 @@
+E:\CountLines\CountLines\bin\Debug\CountLines.exe.config
+E:\CountLines\CountLines\obj\Debug\CountLines.pdb
+E:\CountLines\CountLines\bin\Debug\CountLines.exe
+E:\CountLines\CountLines\bin\Debug\CountLines.pdb
+E:\CountLines\CountLines\obj\Debug\ResolveAssemblyReference.cache
+E:\CountLines\CountLines\obj\Debug\CountLines.frmKindSetting.resources
+E:\CountLines\CountLines\obj\Debug\CountLines.frmMain.resources
+E:\CountLines\CountLines\obj\Debug\CountLines.frmOtherSetting.resources
+E:\CountLines\CountLines\obj\Debug\CountLines.frmHelp.resources
+E:\CountLines\CountLines\obj\Debug\CountLines.Properties.Resources.resources
+E:\CountLines\CountLines\obj\Debug\CountLines.csproj.GenerateResource.Cache
+E:\CountLines\CountLines\obj\Debug\CountLines.exe
+E:\jjj\程序\CountLines\CountLines\bin\Debug\CountLines.exe.config
+E:\jjj\程序\CountLines\CountLines\obj\Debug\CountLines.exe
+E:\jjj\程序\CountLines\CountLines\obj\Debug\CountLines.pdb
+E:\jjj\程序\CountLines\CountLines\bin\Debug\CountLines.exe
+E:\jjj\程序\CountLines\CountLines\bin\Debug\CountLines.pdb
+E:\jjj\程序\CountLines\CountLines\obj\Debug\ResolveAssemblyReference.cache
+E:\jjj\程序\CountLines\CountLines\obj\Debug\CountLines.frmKindSetting.resources
+E:\jjj\程序\CountLines\CountLines\obj\Debug\CountLines.frmMain.resources
+E:\jjj\程序\CountLines\CountLines\obj\Debug\CountLines.frmOtherSetting.resources
+E:\jjj\程序\CountLines\CountLines\obj\Debug\CountLines.frmHelp.resources
+E:\jjj\程序\CountLines\CountLines\obj\Debug\CountLines.frmSortStat.resources
+E:\jjj\程序\CountLines\CountLines\obj\Debug\CountLines.Properties.Resources.resources
+E:\jjj\程序\CountLines\CountLines\obj\Debug\CountLines.csproj.GenerateResource.Cache
+H:\vc#2005\My Softwares\CountLinesV2.0\CountLines\bin\Debug\CountLines.exe.config
+H:\vc#2005\My Softwares\CountLinesV2.0\CountLines\obj\Debug\CountLines.exe
+H:\vc#2005\My Softwares\CountLinesV2.0\CountLines\obj\Debug\CountLines.pdb
+H:\vc#2005\My Softwares\CountLinesV2.0\CountLines\bin\Debug\CountLines.exe
+H:\vc#2005\My Softwares\CountLinesV2.0\CountLines\bin\Debug\CountLines.pdb
+H:\vc#2005\My Softwares\CountLinesV2.0\CountLines\obj\Debug\ResolveAssemblyReference.cache
+H:\vc#2005\My Softwares\CountLinesV2.0\CountLines\obj\Debug\CountLines.frmKindSetting.resources
+H:\vc#2005\My Softwares\CountLinesV2.0\CountLines\obj\Debug\CountLines.frmMain.resources
+H:\vc#2005\My Softwares\CountLinesV2.0\CountLines\obj\Debug\CountLines.frmOtherSetting.resources
+H:\vc#2005\My Softwares\CountLinesV2.0\CountLines\obj\Debug\CountLines.frmHelp.resources
+H:\vc#2005\My Softwares\CountLinesV2.0\CountLines\obj\Debug\CountLines.frmSortStat.resources
+H:\vc#2005\My Softwares\CountLinesV2.0\CountLines\obj\Debug\CountLines.Properties.Resources.resources
+H:\vc#2005\My Softwares\CountLinesV2.0\CountLines\obj\Debug\CountLines.csproj.GenerateResource.Cache
+H:\vc#2005\My Softwares\CountLinesV2.0\CountLines\obj\Debug\CountLines.frmFilter.resources

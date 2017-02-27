@@ -1,0 +1,12 @@
+H:\vc#2005\CountLines\CountLines\bin\Release\CountLines.exe.config
+H:\vc#2005\CountLines\CountLines\obj\Release\CountLines.exe
+H:\vc#2005\CountLines\CountLines\obj\Release\CountLines.pdb
+H:\vc#2005\CountLines\CountLines\bin\Release\CountLines.exe
+H:\vc#2005\CountLines\CountLines\bin\Release\CountLines.pdb
+H:\vc#2005\CountLines\CountLines\obj\Release\ResolveAssemblyReference.cache
+H:\vc#2005\CountLines\CountLines\obj\Release\CountLines.frmKindSetting.resources
+H:\vc#2005\CountLines\CountLines\obj\Release\CountLines.frmMain.resources
+H:\vc#2005\CountLines\CountLines\obj\Release\CountLines.frmOtherSetting.resources
+H:\vc#2005\CountLines\CountLines\obj\Release\CountLines.Help.resources
+H:\vc#2005\CountLines\CountLines\obj\Release\CountLines.Properties.Resources.resources
+H:\vc#2005\CountLines\CountLines\obj\Release\CountLines.csproj.GenerateResource.Cache
